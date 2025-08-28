@@ -1,0 +1,21 @@
+package constants
+
+// core
+const SERVER = "SERVER"
+const CONFIG = "CONFIG"
+
+// handlers
+const ORDERHANDLER = "ORDERHANDLER"
+const METAHANDLER = "METAHANDLER"
+
+// services
+const NOTIFICATION = "NOTIFICATION"
+const PERSISTENCE = "PERSISTENCE"
+const VALIDATION = "VALIDATION"
+
+const ORDERSERVICE = "ORDERSERVICE"
+
+// pkg
+const QUEUES = "QUEUES"
+const DATABASE = "DATABASE"
+const NOTIFIER = "NOTIFIER"

@@ -1,0 +1,12 @@
+server:
+  host: 0.0.0.0
+  port: 5001
+  readTimeout: 30s
+  writeTimeout: 30s
+
+validation:
+  workerCount: 1
+persistance:
+  workerCount: 1
+notification:
+  workerCount: 1
